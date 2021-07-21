@@ -5,7 +5,7 @@
     <div class="row">
 
         <!-- Content -->
-        <div class="col l8 m12">
+        <div class="col m4 l3 yellow">
             <div class="row">
                 <t:diary_list />
             </div>
